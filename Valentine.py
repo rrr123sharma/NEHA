@@ -87,6 +87,6 @@ tur.right (90)
 tur.circle (200,60)
 
 
-tur.write("Happy Valentines Day", align= "left", font=("Times New Roman", 25, "bold"))
+tur.write("Happy Valentines Day", align= "left", font=("Times New Roman", 5, "bold"))
 
-tur.done()￼Enter
+tur.done()
